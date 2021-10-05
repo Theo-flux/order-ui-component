@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Theo-flux/order-ui-component/static/css/main.03f99397.chunk.css",
+    "main.js": "/Theo-flux/order-ui-component/static/js/main.41567a73.chunk.js",
+    "main.js.map": "/Theo-flux/order-ui-component/static/js/main.41567a73.chunk.js.map",
+    "runtime-main.js": "/Theo-flux/order-ui-component/static/js/runtime-main.f971e83b.js",
+    "runtime-main.js.map": "/Theo-flux/order-ui-component/static/js/runtime-main.f971e83b.js.map",
+    "static/js/2.dbde915f.chunk.js": "/Theo-flux/order-ui-component/static/js/2.dbde915f.chunk.js",
+    "static/js/2.dbde915f.chunk.js.map": "/Theo-flux/order-ui-component/static/js/2.dbde915f.chunk.js.map",
+    "static/js/3.1ae185e3.chunk.js": "/Theo-flux/order-ui-component/static/js/3.1ae185e3.chunk.js",
+    "static/js/3.1ae185e3.chunk.js.map": "/Theo-flux/order-ui-component/static/js/3.1ae185e3.chunk.js.map",
+    "index.html": "/Theo-flux/order-ui-component/index.html",
+    "static/css/main.03f99397.chunk.css.map": "/Theo-flux/order-ui-component/static/css/main.03f99397.chunk.css.map",
+    "static/js/2.dbde915f.chunk.js.LICENSE.txt": "/Theo-flux/order-ui-component/static/js/2.dbde915f.chunk.js.LICENSE.txt",
+    "static/media/illustration-hero.73032583.svg": "/Theo-flux/order-ui-component/static/media/illustration-hero.73032583.svg",
+    "static/media/logo.6ce24c58.svg": "/Theo-flux/order-ui-component/static/media/logo.6ce24c58.svg",
+    "static/media/index.css": "/Theo-flux/order-ui-component/static/media/pattern-background-mobile.c8d50fcb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f971e83b.js",
+    "static/js/2.dbde915f.chunk.js",
+    "static/css/main.03f99397.chunk.css",
+    "static/js/main.41567a73.chunk.js"
+  ]
+}
